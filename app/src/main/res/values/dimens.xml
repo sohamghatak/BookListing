@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Height of Search Text Box and Search Button-->
+    <dimen name="searc_item_height">60dp</dimen>
+    <!--Size of Book Title-->
+    <dimen name="title_text_view">20sp</dimen>
+    <!--Size of authors text view-->
+    <dimen name="authors_text_view">16sp</dimen>
+    <!--Size of date text view-->
+    <dimen name="date_text_view">12sp</dimen>
+    <!--Padding for static titles-->
+    <dimen name="padding_text_view">8dp</dimen>
+    <!--Padding for layout view difference-->
+    <dimen name="layout_padding_top">4dp</dimen>
+    <!--Main layout padding-->
+    <dimen name="main_layout_padding">12dp</dimen>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <!--Name of the app-->
+    <string name="app_name">Book Listing</string>
+    <!--Text to show when there is no internet connection on the device-->
+    <string name="no_connection">There is no internet connection</string>
+    <!--No results returned for the book query-->
+    <string name="no_books_founds">No books found for the entered search word. Please try a different name/genre.</string>
+    <!--Text to show when there is no internet connection on the device-->
+    <string name="default_edit_text">Enter a book name/genre to search for</string>
+    <!--No search keyword or phrase entered-->
+    <string name="no_search_text">You have not entered any search text. \n Please enter book name/genre to search.</string>
+    <!--Name of text views-->
+    <string name="title_text_string">Title :</string>
+    <string name="author_text_string">Author :</string>
+    <string name="year_text_string">Year :</string>
+</resources>
